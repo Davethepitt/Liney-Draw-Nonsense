@@ -10,8 +10,10 @@ Press Z to start the experience.
 Use the arrow keys to move around. If you want to change colour press ENTER. This will move you to "Palette Mode" and you can use left and right arrows to choose your colour. Then press SPACE again to return to drawing mode. If you want to clear the screen press ENTER. That's it. Save your picture by purchasing a camera and photographing the screen. 
 
 VERSION: 1.0
+
 VERSION DATE: 29th January 2024
 
 Dave Pitt
+
 http://www.davethepitt.co.uk 
 
